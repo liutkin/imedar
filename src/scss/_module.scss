@@ -1,15 +1,77 @@
 .page {
+  min-width: 320px;
   margin: 0;
+  padding: 2rem 0;
+  min-height: 100vh;
   font-family: $font_default;
   line-height: 1.7;
   color: $color_default;
-  background-color: #fff;
+  background-image: url('../img/bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
-.imedar-list {
-  &__item {
-    &.imedar-list__item_inactive {
-      visibility: hidden;
+.hero {
+  display: flex;
+  justify-content: center;
+  &__body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 3rem;
+    @include respondTo(tablet, min) {
+      font-size: 5rem;
+    }
+    @include respondTo(widedesktop, min) {
+      font-size: 6rem;
+    }
+    @include respondTo(hugedesktop, min) {
+      font-size: 7rem;
+    }
+    &,
+    &:hover,
+    &:focus {
+      color: #6f3c40;
+    }
+    &:hover,
+    &:focus {
+      .hero__name {
+        text-shadow: 0 0 100px #ffea81;
+      }
+      .hero__warrior {
+        &:first-child {
+          transform: translateX(40px);
+        }
+        &:last-child {
+          transform: translateX(-40px) rotateY(180deg);
+        }
+      }
+    }
+  }
+  &__warrior {
+    display: none;
+    width: 20vw;
+    max-width: 336px;
+    @include respondTo(tablet, min) {
+      display: block;
+      transition: transform 0.5s ease;
+    }
+    @include respondTo(desktop, min) {
+      transition: transform 0.5s ease;
+    }
+    &:last-child {
+      transform: rotateY(180deg);
+    }
+  }
+  &__name {
+    @include respondTo(tablet, min) {
+      margin: 0 2rem;
+      text-shadow: 0 0 100px white;
+    }
+    @include respondTo(desktop, min) {
+      transition: text-shadow 0.2s ease;
     }
   }
 }

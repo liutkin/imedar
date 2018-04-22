@@ -8,13 +8,18 @@ block title
 block content
 	body.page
 		.page__content
+			.hero
+				a(href='#').hero__body
+					img(src='img/warrior.png' alt='warrior left').hero__warrior
+					.hero__name Имедар
+					img(src='img/warrior.png' alt='warrior right').hero__warrior
 			#imedar_root Загрузка...
 		+script
 		script.
 			var imedarOption = {
 			  el: document.getElementById('imedar_root'),
 			  srcURL: 'data/data.json',
-			  amount: 20,
+			  amount: 30,
 				maxDelay: 3000,
 			  textLabel: {
 			    normalNameType: 'Обычные',

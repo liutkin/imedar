@@ -3,12 +3,14 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Имедар — генератор фентезийных имен</title>
     <link rel="stylesheet" href="style/app.css">
 </head>
 
 <body class="page">
     <div class="page__content">
+        <div class="hero"><a class="hero__body" href="#"><img class="hero__warrior" src="img/warrior.png" alt="warrior left"><div class="hero__name">Имедар</div><img class="hero__warrior" src="img/warrior.png" alt="warrior right"></a></div>
         <div id="imedar_root">Загрузка...</div>
     </div>
     <script src="script/app.js"></script>
@@ -16,7 +18,7 @@
         var imedarOption = {
             el: document.getElementById('imedar_root'),
             srcURL: 'data/data.json',
-            amount: 20,
+            amount: 30,
             maxDelay: 3000,
             textLabel: {
                 normalNameType: 'Обычные',

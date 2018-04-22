@@ -1,1 +1,48 @@
+.imedar-control {
+  padding: 0 1rem;
+  @include respondTo(tablet, min) {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  @include respondTo(widedesktop, min) {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 
+.imedar-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 1rem;
+  font-size: 1.5rem;
+  background-color: rgba(36, 20, 21, 0.8);
+  box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.5),
+    0 0 70px rgba(251, 246, 241, 0.4);
+  @include respondTo(tablet, min) {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 1rem;
+    text-align: center;
+  }
+  &__item {
+    padding: 0.5rem;
+  }
+}
+
+.imedar-control-list {
+  @include respondTo(tablet, min) {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.imedar-list {
+  &__item {
+    &.imedar-list__item_inactive {
+      visibility: hidden;
+    }
+  }
+}

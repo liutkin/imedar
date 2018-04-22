@@ -6,8 +6,15 @@ a {
   color: dodgerblue;
 }
 
+a:hover,
+a:focus,
+button:hover,
+button:focus {
+  outline: none;
+}
+
 p {
-  padding: 0.6em 0;
+  padding: 0.6rem 0;
 }
 
 label {
@@ -17,6 +24,13 @@ label {
 img {
   max-width: 100%;
   max-height: 100%;
+}
+
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 input[type='text']::-webkit-input-placeholder,
@@ -64,15 +78,117 @@ textarea {
 }
 
 .page {
+  min-width: 320px;
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  padding: 2rem 0;
+  min-height: 100vh;
+  font-family: Georgia, serif;
   line-height: 1.7;
-  color: rgba(0, 0, 0, 0.8);
-  background-color: #fff;
+  color: rgba(255, 255, 255, 0.95);
+  background-image: url("../img/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+}
+
+.hero__body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-size: 3rem;
+}
+
+.hero__body,
+.hero__body:hover,
+.hero__body:focus {
+  color: #6f3c40;
+}
+
+.hero__body:hover .hero__name,
+.hero__body:focus .hero__name {
+  text-shadow: 0 0 100px #ffea81;
+}
+
+.hero__body:hover .hero__warrior:first-child,
+.hero__body:focus .hero__warrior:first-child {
+  transform: translateX(40px);
+}
+
+.hero__body:hover .hero__warrior:last-child,
+.hero__body:focus .hero__warrior:last-child {
+  transform: translateX(-40px) rotateY(180deg);
+}
+
+.hero__warrior {
+  display: none;
+  width: 20vw;
+  max-width: 336px;
+}
+
+.hero__warrior:last-child {
+  transform: rotateY(180deg);
+}
+
+.imedar-control {
+  padding: 0 1rem;
+}
+
+.imedar-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 1rem;
+  font-size: 1.5rem;
+  background-color: rgba(36, 20, 21, 0.8);
+  box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.5), 0 0 70px rgba(251, 246, 241, 0.4);
+}
+
+.imedar-list__item {
+  padding: 0.5rem;
 }
 
 .imedar-list__item.imedar-list__item_inactive {
   visibility: hidden;
+}
+
+@media screen and (min-width: 768px) {
+  .hero__body {
+    font-size: 5rem;
+  }
+
+  .hero__warrior {
+    display: block;
+    transition: transform 0.5s ease;
+  }
+
+  .hero__name {
+    margin: 0 2rem;
+    text-shadow: 0 0 100px white;
+  }
+
+  .imedar-control {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .imedar-list {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 1rem;
+    text-align: center;
+  }
+
+  .imedar-control-list {
+    display: flex;
+    align-items: center;
+  }
 }
 
 @media screen and (min-width: 992px) {
@@ -84,5 +200,35 @@ textarea {
   a,
   button {
     transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  .hero__warrior {
+    transition: transform 0.5s ease;
+  }
+
+  .hero__name {
+    transition: text-shadow 0.2s ease;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .hero__body {
+    font-size: 6rem;
+  }
+
+  .imedar-control {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  html {
+    font-size: 20px;
+  }
+
+  .hero__body {
+    font-size: 7rem;
   }
 }

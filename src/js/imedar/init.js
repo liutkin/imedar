@@ -11,6 +11,11 @@ const init = (data, option) => {
   state.nameType = option.nameType;
   state.amount = option.amount;
 
+  state.maxDelay =
+    option.maxDelay > state.minDelay ? option.maxDelay : state.minDelay;
+
+  state.textLabel = option.textLabel;
+
   generateBasicMarkup(state);
   setListeners(state);
 

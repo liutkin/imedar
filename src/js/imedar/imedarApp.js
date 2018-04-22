@@ -5,6 +5,7 @@ const makeImedar = ({
   srcURL,
   nameType = 'normal',
   amount = 10,
+  maxDelay = 16, // 16 ms is a minimum for browser's effective re-render time
   textLabel
 } = {}) => {
   if (!srcURL || !el) {
@@ -17,6 +18,7 @@ const makeImedar = ({
     srcURL,
     nameType,
     amount,
+    maxDelay,
     textLabel
   };
 

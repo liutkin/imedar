@@ -10,3 +10,18 @@ block content
 		.page__content
 			#imedar_root Загрузка...
 		+script
+		script.
+			var imedarOption = {
+			  el: document.getElementById('imedar_root'),
+			  srcURL: 'data/data.json',
+			  amount: 20,
+				maxDelay: 3000,
+			  textLabel: {
+			    normalNameType: 'Обычные',
+			    semiobsceneNameType: 'Непристойные',
+			    obsceneNameType: 'Ругательные',
+			    abstractNameType: 'Абстрактные'
+			  }
+			};
+
+			var imedar = makeImedar(imedarOption);

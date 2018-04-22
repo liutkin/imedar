@@ -5,3 +5,11 @@
   color: $color_default;
   background-color: #fff;
 }
+
+.imedar-list {
+  &__item {
+    &.imedar-list__item_inactive {
+      visibility: hidden;
+    }
+  }
+}

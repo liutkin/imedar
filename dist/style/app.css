@@ -71,6 +71,10 @@ textarea {
   background-color: #fff;
 }
 
+.imedar-list__item.imedar-list__item_inactive {
+  visibility: hidden;
+}
+
 @media screen and (min-width: 992px) {
   a:hover,
   a:focus {

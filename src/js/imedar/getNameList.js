@@ -17,6 +17,8 @@ const getNameList = state => {
     case 'abstract':
       generateAbstractNames(state);
       break;
+    default:
+      generateNormalNames(state);
   }
 };
 

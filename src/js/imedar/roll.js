@@ -2,14 +2,17 @@ import render from './render';
 import getNameList from './getNameList';
 
 const roll = state => {
-  state.isProcessing = true;
-  render(state);
+  if (state.isProcessing) return;
 
   state.nameList = [];
 
-  getNameList(state);
-  state.isProcessing = false;
+  state.isProcessing = true;
   render(state);
+
+  getNameList(state);
+  render(state, () => {
+    state.isProcessing = false;
+  });
 };
 
 export default roll;

@@ -1,0 +1,1 @@
+Fantasy name generator (russian)

@@ -1,0 +1,4944 @@
+[
+ {
+   "id": 1,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Огне"
+ },
+ {
+   "id": 2,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Брюхо"
+ },
+ {
+   "id": 3,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мече"
+ },
+ {
+   "id": 4,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мрако"
+ },
+ {
+   "id": 5,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пыле"
+ },
+ {
+   "id": 6,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пузо"
+ },
+ {
+   "id": 7,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Луно"
+ },
+ {
+   "id": 8,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Кресто"
+ },
+ {
+   "id": 9,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Грызо"
+ },
+ {
+   "id": 10,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Миро"
+ },
+ {
+   "id": 11,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Трясо"
+ },
+ {
+   "id": 12,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Нюхо"
+ },
+ {
+   "id": 13,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Лизо"
+ },
+ {
+   "id": 14,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Ногте"
+ },
+ {
+   "id": 15,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Стремно"
+ },
+ {
+   "id": 16,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Слизе"
+ },
+ {
+   "id": 17,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Клыко"
+ },
+ {
+   "id": 18,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Цвето"
+ },
+ {
+   "id": 19,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Солнце"
+ },
+ {
+   "id": 20,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Звездо"
+ },
+ {
+   "id": 21,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Сопле"
+ },
+ {
+   "id": 22,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Спино"
+ },
+ {
+   "id": 23,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Попко"
+ },
+ {
+   "id": 24,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бревно"
+ },
+ {
+   "id": 25,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Стрело"
+ },
+ {
+   "id": 26,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Сисько"
+ },
+ {
+   "id": 27,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Дыро"
+ },
+ {
+   "id": 28,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Злобно"
+ },
+ {
+   "id": 29,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Добро"
+ },
+ {
+   "id": 30,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тыко"
+ },
+ {
+   "id": 31,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Грудо"
+ },
+ {
+   "id": 32,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Рыко"
+ },
+ {
+   "id": 33,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Жестко"
+ },
+ {
+   "id": 34,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Пуко"
+ },
+ {
+   "id": 35,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Кишко"
+ },
+ {
+   "id": 36,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Лихо"
+ },
+ {
+   "id": 37,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мяче"
+ },
+ {
+   "id": 38,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Трюко"
+ },
+ {
+   "id": 39,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Штормо"
+ },
+ {
+   "id": 40,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Ветро"
+ },
+ {
+   "id": 41,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Ледо"
+ },
+ {
+   "id": 42,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Жиро"
+ },
+ {
+   "id": 43,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Стуко"
+ },
+ {
+   "id": 44,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Стекло"
+ },
+ {
+   "id": 45,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бесо"
+ },
+ {
+   "id": 46,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Следо"
+ },
+ {
+   "id": 47,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мохно"
+ },
+ {
+   "id": 48,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Хряко"
+ },
+ {
+   "id": 49,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Свино"
+ },
+ {
+   "id": 50,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Волко"
+ },
+ {
+   "id": 51,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Угле"
+ },
+ {
+   "id": 52,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Треско"
+ },
+ {
+   "id": 53,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Смехо"
+ },
+ {
+   "id": 54,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Дымо"
+ },
+ {
+   "id": 55,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Сердо"
+ },
+ {
+   "id": 56,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Утко"
+ },
+ {
+   "id": 57,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шлепко"
+ },
+ {
+   "id": 58,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Духо"
+ },
+ {
+   "id": 59,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Няше"
+ },
+ {
+   "id": 60,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Чпоко"
+ },
+ {
+   "id": 61,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Трусо"
+ },
+ {
+   "id": 62,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Плаще"
+ },
+ {
+   "id": 63,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Крово"
+ },
+ {
+   "id": 64,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Траво"
+ },
+ {
+   "id": 65,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пыхо"
+ },
+ {
+   "id": 66,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Друго"
+ },
+ {
+   "id": 67,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Враго"
+ },
+ {
+   "id": 68,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тряпко"
+ },
+ {
+   "id": 69,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Костро"
+ },
+ {
+   "id": 70,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Лапо"
+ },
+ {
+   "id": 71,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Дупло"
+ },
+ {
+   "id": 72,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Вибро"
+ },
+ {
+   "id": 73,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шелко"
+ },
+ {
+   "id": 74,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Куче"
+ },
+ {
+   "id": 75,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Перце"
+ },
+ {
+   "id": 76,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Двиго"
+ },
+ {
+   "id": 77,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Грязе"
+ },
+ {
+   "id": 78,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Быко"
+ },
+ {
+   "id": 79,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Клопо"
+ },
+ {
+   "id": 80,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Клеще"
+ },
+ {
+   "id": 81,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мудро"
+ },
+ {
+   "id": 82,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Гнило"
+ },
+ {
+   "id": 83,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пепло"
+ },
+ {
+   "id": 84,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тыкво"
+ },
+ {
+   "id": 85,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Гнево"
+ },
+ {
+   "id": 86,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Паро"
+ },
+ {
+   "id": 87,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Механо"
+ },
+ {
+   "id": 88,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шпаго"
+ },
+ {
+   "id": 89,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Хищно"
+ },
+ {
+   "id": 90,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шизо"
+ },
+ {
+   "id": 91,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Вяло"
+ },
+ {
+   "id": 92,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Поршне"
+ },
+ {
+   "id": 93,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Болто"
+ },
+ {
+   "id": 94,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пружино"
+ },
+ {
+   "id": 95,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Волосо"
+ },
+ {
+   "id": 96,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Трупо"
+ },
+ {
+   "id": 97,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Порче"
+ },
+ {
+   "id": 98,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мутно"
+ },
+ {
+   "id": 99,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пятно"
+ },
+ {
+   "id": 100,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Круто"
+ },
+ {
+   "id": 101,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тепло"
+ },
+ {
+   "id": 102,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Водо"
+ },
+ {
+   "id": 103,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мудо"
+ },
+ {
+   "id": 104,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Нежно"
+ },
+ {
+   "id": 105,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Любо"
+ },
+ {
+   "id": 106,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Писько"
+ },
+ {
+   "id": 107,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Волно"
+ },
+ {
+   "id": 108,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пышно"
+ },
+ {
+   "id": 109,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мило"
+ },
+ {
+   "id": 110,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Няшно"
+ },
+ {
+   "id": 111,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Прытно"
+ },
+ {
+   "id": 112,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Туче"
+ },
+ {
+   "id": 113,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Градо"
+ },
+ {
+   "id": 114,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Луче"
+ },
+ {
+   "id": 115,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Хмеле"
+ },
+ {
+   "id": 116,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Кучно"
+ },
+ {
+   "id": 117,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Черно"
+ },
+ {
+   "id": 118,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Люто"
+ },
+ {
+   "id": 119,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Язво"
+ },
+ {
+   "id": 120,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Сухо"
+ },
+ {
+   "id": 121,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мокро"
+ },
+ {
+   "id": 122,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Влажно"
+ },
+ {
+   "id": 123,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Черто"
+ },
+ {
+   "id": 124,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Золото"
+ },
+ {
+   "id": 125,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Листо"
+ },
+ {
+   "id": 126,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Рыло"
+ },
+ {
+   "id": 127,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мордо"
+ },
+ {
+   "id": 128,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Крабо"
+ },
+ {
+   "id": 129,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Усо"
+ },
+ {
+   "id": 130,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Туго"
+ },
+ {
+   "id": 131,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Ухо"
+ },
+ {
+   "id": 132,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Алче"
+ },
+ {
+   "id": 133,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Блудо"
+ },
+ {
+   "id": 134,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Грехо"
+ },
+ {
+   "id": 135,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Копье"
+ },
+ {
+   "id": 136,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Дуро"
+ },
+ {
+   "id": 137,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бледно"
+ },
+ {
+   "id": 138,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шмыго"
+ },
+ {
+   "id": 139,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Ливне"
+ },
+ {
+   "id": 140,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Буре"
+ },
+ {
+   "id": 141,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Крысо"
+ },
+ {
+   "id": 142,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мыше"
+ },
+ {
+   "id": 143,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Кото"
+ },
+ {
+   "id": 144,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Трахо"
+ },
+ {
+   "id": 145,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Когте"
+ },
+ {
+   "id": 146,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Клешне"
+ },
+ {
+   "id": 147,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Гриво"
+ },
+ {
+   "id": 148,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Зное"
+ },
+ {
+   "id": 149,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Весело"
+ },
+ {
+   "id": 150,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Щито"
+ },
+ {
+   "id": 151,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Маго"
+ },
+ {
+   "id": 152,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Толсто"
+ },
+ {
+   "id": 153,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Древо"
+ },
+ {
+   "id": 154,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Страхо"
+ },
+ {
+   "id": 155,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Сыко"
+ },
+ {
+   "id": 156,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Буйно"
+ },
+ {
+   "id": 157,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Быстро"
+ },
+ {
+   "id": 158,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Яйце"
+ },
+ {
+   "id": 159,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Громо"
+ },
+ {
+   "id": 160,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Корне"
+ },
+ {
+   "id": 161,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Техно"
+ },
+ {
+   "id": 162,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Вихре"
+ },
+ {
+   "id": 163,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Сабле"
+ },
+ {
+   "id": 164,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Зверо"
+ },
+ {
+   "id": 165,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Садо"
+ },
+ {
+   "id": 166,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Горно"
+ },
+ {
+   "id": 167,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Булко"
+ },
+ {
+   "id": 168,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Камне"
+ },
+ {
+   "id": 169,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Песне"
+ },
+ {
+   "id": 170,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шубо"
+ },
+ {
+   "id": 171,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Небо"
+ },
+ {
+   "id": 172,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Дивно"
+ },
+ {
+   "id": 173,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Жаро"
+ },
+ {
+   "id": 174,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пчело"
+ },
+ {
+   "id": 175,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Кусто"
+ },
+ {
+   "id": 176,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шерсто"
+ },
+ {
+   "id": 177,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Праздно"
+ },
+ {
+   "id": 178,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Чесо"
+ },
+ {
+   "id": 179,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Душе"
+ },
+ {
+   "id": 180,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тене"
+ },
+ {
+   "id": 181,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пьяно"
+ },
+ {
+   "id": 182,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Косте"
+ },
+ {
+   "id": 183,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пламе"
+ },
+ {
+   "id": 184,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Гребне"
+ },
+ {
+   "id": 185,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Космо"
+ },
+ {
+   "id": 186,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Трубо"
+ },
+ {
+   "id": 187,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Турбо"
+ },
+ {
+   "id": 188,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тлено"
+ },
+ {
+   "id": 189,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Слюно"
+ },
+ {
+   "id": 190,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Скало"
+ },
+ {
+   "id": 191,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Смерто"
+ },
+ {
+   "id": 192,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Комбо"
+ },
+ {
+   "id": 193,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Магмо"
+ },
+ {
+   "id": 194,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Брыко"
+ },
+ {
+   "id": 195,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Снего"
+ },
+ {
+   "id": 196,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Буро"
+ },
+ {
+   "id": 197,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Яро"
+ },
+ {
+   "id": 198,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Земле"
+ },
+ {
+   "id": 199,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Плавно"
+ },
+ {
+   "id": 200,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Куро"
+ },
+ {
+   "id": 201,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Нище"
+ },
+ {
+   "id": 202,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Много"
+ },
+ {
+   "id": 203,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мало"
+ },
+ {
+   "id": 204,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Скверно"
+ },
+ {
+   "id": 205,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бульбо"
+ },
+ {
+   "id": 206,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Даро"
+ },
+ {
+   "id": 207,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бронзо"
+ },
+ {
+   "id": 208,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Светло"
+ },
+ {
+   "id": 209,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Злобо"
+ },
+ {
+   "id": 210,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Кремо"
+ },
+ {
+   "id": 211,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Килько"
+ },
+ {
+   "id": 212,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Сладко"
+ },
+ {
+   "id": 213,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Горько"
+ },
+ {
+   "id": 214,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Кисло"
+ },
+ {
+   "id": 215,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Остро"
+ },
+ {
+   "id": 216,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Легко"
+ },
+ {
+   "id": 217,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бредо"
+ },
+ {
+   "id": 218,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Сумко"
+ },
+ {
+   "id": 219,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Вино"
+ },
+ {
+   "id": 220,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шлако"
+ },
+ {
+   "id": 221,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тесно"
+ },
+ {
+   "id": 222,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Криво"
+ },
+ {
+   "id": 223,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Прямо"
+ },
+ {
+   "id": 224,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Косо"
+ },
+ {
+   "id": 225,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Клятво"
+ },
+ {
+   "id": 226,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бритво"
+ },
+ {
+   "id": 227,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пено"
+ },
+ {
+   "id": 228,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Цепко"
+ },
+ {
+   "id": 229,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Цирко"
+ },
+ {
+   "id": 230,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Щипко"
+ },
+ {
+   "id": 231,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Гладко"
+ },
+ {
+   "id": 232,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шершне"
+ },
+ {
+   "id": 233,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Лисо"
+ },
+ {
+   "id": 234,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Свято"
+ },
+ {
+   "id": 235,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Адо"
+ },
+ {
+   "id": 236,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Скоро"
+ },
+ {
+   "id": 237,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мехо"
+ },
+ {
+   "id": 238,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Вязко"
+ },
+ {
+   "id": 239,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Скрипо"
+ },
+ {
+   "id": 240,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Хмуро"
+ },
+ {
+   "id": 241,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Споро"
+ },
+ {
+   "id": 242,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Крепко"
+ },
+ {
+   "id": 243,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Гибле"
+ },
+ {
+   "id": 244,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пытко"
+ },
+ {
+   "id": 245,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Долбо"
+ },
+ {
+   "id": 246,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Дурно"
+ },
+ {
+   "id": 247,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Благо"
+ },
+ {
+   "id": 248,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бубно"
+ },
+ {
+   "id": 249,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мозго"
+ },
+ {
+   "id": 250,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пупко"
+ },
+ {
+   "id": 251,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шумно"
+ },
+ {
+   "id": 252,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тихо"
+ },
+ {
+   "id": 253,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пырче"
+ },
+ {
+   "id": 254,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Ласто"
+ },
+ {
+   "id": 255,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Слепо"
+ },
+ {
+   "id": 256,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мускуло"
+ },
+ {
+   "id": 257,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Вато"
+ },
+ {
+   "id": 258,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Дыне"
+ },
+ {
+   "id": 259,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Щуко"
+ },
+ {
+   "id": 260,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Кексо"
+ },
+ {
+   "id": 261,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Крадо"
+ },
+ {
+   "id": 262,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Газо"
+ },
+ {
+   "id": 263,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тигро"
+ },
+ {
+   "id": 264,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Книго"
+ },
+ {
+   "id": 265,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Музо"
+ },
+ {
+   "id": 266,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Молото"
+ },
+ {
+   "id": 267,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Секиро"
+ },
+ {
+   "id": 268,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Прыще"
+ },
+ {
+   "id": 269,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Хрумо"
+ },
+ {
+   "id": 270,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Хребто"
+ },
+ {
+   "id": 271,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Чутко"
+ },
+ {
+   "id": 272,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Велюро"
+ },
+ {
+   "id": 273,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Жуко"
+ },
+ {
+   "id": 274,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Броне"
+ },
+ {
+   "id": 275,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Грустно"
+ },
+ {
+   "id": 276,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Нерво"
+ },
+ {
+   "id": 277,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Вольно"
+ },
+ {
+   "id": 278,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пруто"
+ },
+ {
+   "id": 279,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Стале"
+ },
+ {
+   "id": 280,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Дроже"
+ },
+ {
+   "id": 281,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Чмоко"
+ },
+ {
+   "id": 282,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Цыпо"
+ },
+ {
+   "id": 283,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Черве"
+ },
+ {
+   "id": 284,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бобро"
+ },
+ {
+   "id": 285,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Овце"
+ },
+ {
+   "id": 286,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Хлысто"
+ },
+ {
+   "id": 287,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Весло"
+ },
+ {
+   "id": 288,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мысле"
+ },
+ {
+   "id": 289,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Жадно"
+ },
+ {
+   "id": 290,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пико"
+ },
+ {
+   "id": 291,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Рыго"
+ },
+ {
+   "id": 292,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Гвозде"
+ },
+ {
+   "id": 293,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Крото"
+ },
+ {
+   "id": 294,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Гребле"
+ },
+ {
+   "id": 295,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Бздюхо"
+ },
+ {
+   "id": 296,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Пило"
+ },
+ {
+   "id": 297,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Биче"
+ },
+ {
+   "id": 298,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Плоско"
+ },
+ {
+   "id": 299,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Вафле"
+ },
+ {
+   "id": 300,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Терно"
+ },
+ {
+   "id": 301,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Щупо"
+ },
+ {
+   "id": 302,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Щипо"
+ },
+ {
+   "id": 303,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Стерво"
+ },
+ {
+   "id": 304,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Тошно"
+ },
+ {
+   "id": 305,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Шмаро"
+ },
+ {
+   "id": 306,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Хряще"
+ },
+ {
+   "id": 307,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Смерче"
+ },
+ {
+   "id": 308,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Бруто"
+ },
+ {
+   "id": 309,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Плито"
+ },
+ {
+   "id": 310,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Стыдо"
+ },
+ {
+   "id": 311,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Жутко"
+ },
+ {
+   "id": 312,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мрачно"
+ },
+ {
+   "id": 313,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Кремне"
+ },
+ {
+   "id": 314,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Лобко"
+ },
+ {
+   "id": 315,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Шприце"
+ },
+ {
+   "id": 316,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Игло"
+ },
+ {
+   "id": 317,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Быдло"
+ },
+ {
+   "id": 318,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Сыпо"
+ },
+ {
+   "id": 319,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Искро"
+ },
+ {
+   "id": 320,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Жмото"
+ },
+ {
+   "id": 321,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Дыбо"
+ },
+ {
+   "id": 322,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Копче"
+ },
+ {
+   "id": 323,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Мразе"
+ },
+ {
+   "id": 324,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Хитро"
+ },
+ {
+   "id": 325,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мелко"
+ },
+ {
+   "id": 326,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Крупно"
+ },
+ {
+   "id": 327,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Морще"
+ },
+ {
+   "id": 328,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Желче"
+ },
+ {
+   "id": 329,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Мухо"
+ },
+ {
+   "id": 330,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Жабо"
+ },
+ {
+   "id": 331,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": false,
+   "text": "Берсо"
+ },
+ {
+   "id": 332,
+   "type": "prefix",
+   "obscene": true,
+   "abstract": false,
+   "text": "Кало"
+ },
+ {
+   "id": 333,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Драк"
+ },
+ {
+   "id": 334,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Эбо"
+ },
+ {
+   "id": 335,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Крео"
+ },
+ {
+   "id": 336,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Эсто"
+ },
+ {
+   "id": 337,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Мико"
+ },
+ {
+   "id": 338,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Зе"
+ },
+ {
+   "id": 339,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Небо"
+ },
+ {
+   "id": 340,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Крип"
+ },
+ {
+   "id": 341,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Фей"
+ },
+ {
+   "id": 342,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Эн"
+ },
+ {
+   "id": 343,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Рама"
+ },
+ {
+   "id": 344,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Отто"
+ },
+ {
+   "id": 345,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Ну"
+ },
+ {
+   "id": 346,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Ише"
+ },
+ {
+   "id": 347,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Гро"
+ },
+ {
+   "id": 348,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Ксель"
+ },
+ {
+   "id": 349,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Шебо"
+ },
+ {
+   "id": 350,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Улун"
+ },
+ {
+   "id": 351,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Кромо"
+ },
+ {
+   "id": 352,
+   "type": "prefix",
+   "obscene": false,
+   "abstract": true,
+   "text": "Итро"
+ },
+ {
+   "id": 353,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мир"
+ },
+ {
+   "id": 354,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пуз"
+ },
+ {
+   "id": 355,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тряс"
+ },
+ {
+   "id": 356,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "ступ"
+ },
+ {
+   "id": 357,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пак"
+ },
+ {
+   "id": 358,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "грыз"
+ },
+ {
+   "id": 359,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "нюх"
+ },
+ {
+   "id": 360,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лиз"
+ },
+ {
+   "id": 361,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "голов"
+ },
+ {
+   "id": 362,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "бород"
+ },
+ {
+   "id": 363,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "ног"
+ },
+ {
+   "id": 364,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пряд"
+ },
+ {
+   "id": 365,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крад"
+ },
+ {
+   "id": 366,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "стрел"
+ },
+ {
+   "id": 367,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "меч"
+ },
+ {
+   "id": 368,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "клык"
+ },
+ {
+   "id": 369,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "цвет"
+ },
+ {
+   "id": 370,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "щуп"
+ },
+ {
+   "id": 371,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "суй"
+ },
+ {
+   "id": 372,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дар"
+ },
+ {
+   "id": 373,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "жуй"
+ },
+ {
+   "id": 374,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "трах"
+ },
+ {
+   "id": 375,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "жим"
+ },
+ {
+   "id": 376,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лёт"
+ },
+ {
+   "id": 377,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кат"
+ },
+ {
+   "id": 378,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дыр"
+ },
+ {
+   "id": 379,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "свет"
+ },
+ {
+   "id": 380,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "злоб"
+ },
+ {
+   "id": 381,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "стриг"
+ },
+ {
+   "id": 382,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "пук"
+ },
+ {
+   "id": 383,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "поп"
+ },
+ {
+   "id": 384,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "срак"
+ },
+ {
+   "id": 385,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "ух"
+ },
+ {
+   "id": 386,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "нос"
+ },
+ {
+   "id": 387,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "зноб"
+ },
+ {
+   "id": 388,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "срач"
+ },
+ {
+   "id": 389,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "маз"
+ },
+ {
+   "id": 390,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кол"
+ },
+ {
+   "id": 391,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пыр"
+ },
+ {
+   "id": 392,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "стук"
+ },
+ {
+   "id": 393,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "спин"
+ },
+ {
+   "id": 394,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "трюк"
+ },
+ {
+   "id": 395,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "твор"
+ },
+ {
+   "id": 396,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пар"
+ },
+ {
+   "id": 397,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "бес"
+ },
+ {
+   "id": 398,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шест"
+ },
+ {
+   "id": 399,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пыт"
+ },
+ {
+   "id": 400,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "хряк"
+ },
+ {
+   "id": 401,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "свин"
+ },
+ {
+   "id": 402,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "коп"
+ },
+ {
+   "id": 403,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "треск"
+ },
+ {
+   "id": 404,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "смех"
+ },
+ {
+   "id": 405,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "плюй"
+ },
+ {
+   "id": 406,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дым"
+ },
+ {
+   "id": 407,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "серд"
+ },
+ {
+   "id": 408,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "навт"
+ },
+ {
+   "id": 409,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лов"
+ },
+ {
+   "id": 410,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "волос"
+ },
+ {
+   "id": 411,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "брюх"
+ },
+ {
+   "id": 412,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пад"
+ },
+ {
+   "id": 413,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "трон"
+ },
+ {
+   "id": 414,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шлёп"
+ },
+ {
+   "id": 415,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дав"
+ },
+ {
+   "id": 416,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "чпок"
+ },
+ {
+   "id": 417,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "яд"
+ },
+ {
+   "id": 418,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "плащ"
+ },
+ {
+   "id": 419,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "бард"
+ },
+ {
+   "id": 420,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тень"
+ },
+ {
+   "id": 421,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пых"
+ },
+ {
+   "id": 422,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лап"
+ },
+ {
+   "id": 423,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "фыр"
+ },
+ {
+   "id": 424,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тряп"
+ },
+ {
+   "id": 425,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "звон"
+ },
+ {
+   "id": 426,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мол"
+ },
+ {
+   "id": 427,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "глаз"
+ },
+ {
+   "id": 428,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "бров"
+ },
+ {
+   "id": 429,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лик"
+ },
+ {
+   "id": 430,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лиц"
+ },
+ {
+   "id": 431,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "сись"
+ },
+ {
+   "id": 432,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "клоп"
+ },
+ {
+   "id": 433,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кус"
+ },
+ {
+   "id": 434,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "свист"
+ },
+ {
+   "id": 435,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "трог"
+ },
+ {
+   "id": 436,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "топ"
+ },
+ {
+   "id": 437,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лей"
+ },
+ {
+   "id": 438,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "брей"
+ },
+ {
+   "id": 439,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "бот"
+ },
+ {
+   "id": 440,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крут"
+ },
+ {
+   "id": 441,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вёрт"
+ },
+ {
+   "id": 442,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "струй"
+ },
+ {
+   "id": 443,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "ус"
+ },
+ {
+   "id": 444,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рык"
+ },
+ {
+   "id": 445,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пас"
+ },
+ {
+   "id": 446,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "трат"
+ },
+ {
+   "id": 447,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "зев"
+ },
+ {
+   "id": 448,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лёж"
+ },
+ {
+   "id": 449,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крат"
+ },
+ {
+   "id": 450,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тел"
+ },
+ {
+   "id": 451,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "скрип"
+ },
+ {
+   "id": 452,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кос"
+ },
+ {
+   "id": 453,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кот"
+ },
+ {
+   "id": 454,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "люд"
+ },
+ {
+   "id": 455,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пресс"
+ },
+ {
+   "id": 456,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "след"
+ },
+ {
+   "id": 457,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мут"
+ },
+ {
+   "id": 458,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кнут"
+ },
+ {
+   "id": 459,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "жёв"
+ },
+ {
+   "id": 460,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "гляд"
+ },
+ {
+   "id": 461,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "люб"
+ },
+ {
+   "id": 462,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "няш"
+ },
+ {
+   "id": 463,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "резв"
+ },
+ {
+   "id": 464,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "куш"
+ },
+ {
+   "id": 465,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "куч"
+ },
+ {
+   "id": 466,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рой"
+ },
+ {
+   "id": 467,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рёв"
+ },
+ {
+   "id": 468,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "туч"
+ },
+ {
+   "id": 469,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "туж"
+ },
+ {
+   "id": 470,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вар"
+ },
+ {
+   "id": 471,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "стуж"
+ },
+ {
+   "id": 472,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мозг"
+ },
+ {
+   "id": 473,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "клад"
+ },
+ {
+   "id": 474,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "плод"
+ },
+ {
+   "id": 475,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "гнил"
+ },
+ {
+   "id": 476,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "трус"
+ },
+ {
+   "id": 477,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "пах"
+ },
+ {
+   "id": 478,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "зуд"
+ },
+ {
+   "id": 479,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "брык"
+ },
+ {
+   "id": 480,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "спок"
+ },
+ {
+   "id": 481,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вор"
+ },
+ {
+   "id": 482,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вой"
+ },
+ {
+   "id": 483,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "морд"
+ },
+ {
+   "id": 484,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рыл"
+ },
+ {
+   "id": 485,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рук"
+ },
+ {
+   "id": 486,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "жад"
+ },
+ {
+   "id": 487,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "ток"
+ },
+ {
+   "id": 488,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шквал"
+ },
+ {
+   "id": 489,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шмыг"
+ },
+ {
+   "id": 490,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дур"
+ },
+ {
+   "id": 491,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "зуб"
+ },
+ {
+   "id": 492,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "блуд"
+ },
+ {
+   "id": 493,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "страх"
+ },
+ {
+   "id": 494,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "гнев"
+ },
+ {
+   "id": 495,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рыск"
+ },
+ {
+   "id": 496,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крыс"
+ },
+ {
+   "id": 497,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "спиц"
+ },
+ {
+   "id": 498,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "звер"
+ },
+ {
+   "id": 499,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "глот"
+ },
+ {
+   "id": 500,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дёр"
+ },
+ {
+   "id": 501,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "грив"
+ },
+ {
+   "id": 502,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "зной"
+ },
+ {
+   "id": 503,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тороп"
+ },
+ {
+   "id": 504,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "трёп"
+ },
+ {
+   "id": 505,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дуй"
+ },
+ {
+   "id": 506,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "горб"
+ },
+ {
+   "id": 507,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "жар"
+ },
+ {
+   "id": 508,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "ход"
+ },
+ {
+   "id": 509,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "трух"
+ },
+ {
+   "id": 510,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "смерд"
+ },
+ {
+   "id": 511,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "блоп"
+ },
+ {
+   "id": 512,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вер"
+ },
+ {
+   "id": 513,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "зад"
+ },
+ {
+   "id": 514,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "пись"
+ },
+ {
+   "id": 515,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лом"
+ },
+ {
+   "id": 516,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "клин"
+ },
+ {
+   "id": 517,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "плёт"
+ },
+ {
+   "id": 518,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "чар"
+ },
+ {
+   "id": 519,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "злат"
+ },
+ {
+   "id": 520,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рог"
+ },
+ {
+   "id": 521,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "чмок"
+ },
+ {
+   "id": 522,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "брызг"
+ },
+ {
+   "id": 523,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рез"
+ },
+ {
+   "id": 524,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тыр"
+ },
+ {
+   "id": 525,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "струг"
+ },
+ {
+   "id": 526,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шей"
+ },
+ {
+   "id": 527,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "стон"
+ },
+ {
+   "id": 528,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "сос"
+ },
+ {
+   "id": 529,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "сот"
+ },
+ {
+   "id": 530,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "строг"
+ },
+ {
+   "id": 531,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шерст"
+ },
+ {
+   "id": 532,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "чёс"
+ },
+ {
+   "id": 533,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "бег"
+ },
+ {
+   "id": 534,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "полз"
+ },
+ {
+   "id": 535,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "сед"
+ },
+ {
+   "id": 536,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "туг"
+ },
+ {
+   "id": 537,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пруг"
+ },
+ {
+   "id": 538,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кост"
+ },
+ {
+   "id": 539,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "зов"
+ },
+ {
+   "id": 540,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шат"
+ },
+ {
+   "id": 541,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крыл"
+ },
+ {
+   "id": 542,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тлен"
+ },
+ {
+   "id": 543,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пламень"
+ },
+ {
+   "id": 544,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крен"
+ },
+ {
+   "id": 545,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "морф"
+ },
+ {
+   "id": 546,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "фоб"
+ },
+ {
+   "id": 547,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дых"
+ },
+ {
+   "id": 548,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "струн"
+ },
+ {
+   "id": 549,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "плав"
+ },
+ {
+   "id": 550,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "сгиб"
+ },
+ {
+   "id": 551,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мин"
+ },
+ {
+   "id": 552,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "щип"
+ },
+ {
+   "id": 553,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "сёрб"
+ },
+ {
+   "id": 554,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "чист"
+ },
+ {
+   "id": 555,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "штык"
+ },
+ {
+   "id": 556,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мес"
+ },
+ {
+   "id": 557,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "прыг"
+ },
+ {
+   "id": 558,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "туш"
+ },
+ {
+   "id": 559,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "блик"
+ },
+ {
+   "id": 560,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кур"
+ },
+ {
+   "id": 561,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "брод"
+ },
+ {
+   "id": 562,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "бульб"
+ },
+ {
+   "id": 563,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дан"
+ },
+ {
+   "id": 564,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кор"
+ },
+ {
+   "id": 565,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "цып"
+ },
+ {
+   "id": 566,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мох"
+ },
+ {
+   "id": 567,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "штроц"
+ },
+ {
+   "id": 568,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "торч"
+ },
+ {
+   "id": 569,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крем"
+ },
+ {
+   "id": 570,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "стёг"
+ },
+ {
+   "id": 571,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "бой"
+ },
+ {
+   "id": 572,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пух"
+ },
+ {
+   "id": 573,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "хлюп"
+ },
+ {
+   "id": 574,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шляп"
+ },
+ {
+   "id": 575,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "руб"
+ },
+ {
+   "id": 576,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "сек"
+ },
+ {
+   "id": 577,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мот"
+ },
+ {
+   "id": 578,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "бур"
+ },
+ {
+   "id": 579,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "визг"
+ },
+ {
+   "id": 580,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дрог"
+ },
+ {
+   "id": 581,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "чуд"
+ },
+ {
+   "id": 582,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "луп"
+ },
+ {
+   "id": 583,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "роб"
+ },
+ {
+   "id": 584,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дел"
+ },
+ {
+   "id": 585,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вей"
+ },
+ {
+   "id": 586,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мызг"
+ },
+ {
+   "id": 587,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "хват"
+ },
+ {
+   "id": 588,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "глад"
+ },
+ {
+   "id": 589,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лив"
+ },
+ {
+   "id": 590,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лип"
+ },
+ {
+   "id": 591,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "скреп"
+ },
+ {
+   "id": 592,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крас"
+ },
+ {
+   "id": 593,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вод"
+ },
+ {
+   "id": 594,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вис"
+ },
+ {
+   "id": 595,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "миг"
+ },
+ {
+   "id": 596,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "друз"
+ },
+ {
+   "id": 597,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "срам"
+ },
+ {
+   "id": 598,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "слёз"
+ },
+ {
+   "id": 599,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крюк"
+ },
+ {
+   "id": 600,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "кров"
+ },
+ {
+   "id": 601,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "ед"
+ },
+ {
+   "id": 602,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "жор"
+ },
+ {
+   "id": 603,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пуп"
+ },
+ {
+   "id": 604,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дрожь"
+ },
+ {
+   "id": 605,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "скат"
+ },
+ {
+   "id": 606,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рот"
+ },
+ {
+   "id": 607,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "щёк"
+ },
+ {
+   "id": 608,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пут"
+ },
+ {
+   "id": 609,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пыж"
+ },
+ {
+   "id": 610,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "сум"
+ },
+ {
+   "id": 611,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "луж"
+ },
+ {
+   "id": 612,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "ласк"
+ },
+ {
+   "id": 613,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "лоб"
+ },
+ {
+   "id": 614,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дой"
+ },
+ {
+   "id": 615,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "грёз"
+ },
+ {
+   "id": 616,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "двиг"
+ },
+ {
+   "id": 617,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тёр"
+ },
+ {
+   "id": 618,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пил"
+ },
+ {
+   "id": 619,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пыл"
+ },
+ {
+   "id": 620,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "круч"
+ },
+ {
+   "id": 621,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "порч"
+ },
+ {
+   "id": 622,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крив"
+ },
+ {
+   "id": 623,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "скверн"
+ },
+ {
+   "id": 624,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "луч"
+ },
+ {
+   "id": 625,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шиз"
+ },
+ {
+   "id": 626,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "муз"
+ },
+ {
+   "id": 627,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "утроб"
+ },
+ {
+   "id": 628,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рвач"
+ },
+ {
+   "id": 629,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вед"
+ },
+ {
+   "id": 630,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "хлыст"
+ },
+ {
+   "id": 631,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "грёб"
+ },
+ {
+   "id": 632,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "ворот"
+ },
+ {
+   "id": 633,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мёт"
+ },
+ {
+   "id": 634,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "клац"
+ },
+ {
+   "id": 635,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "чад"
+ },
+ {
+   "id": 636,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "щёлк"
+ },
+ {
+   "id": 637,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "сев"
+ },
+ {
+   "id": 638,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "сов"
+ },
+ {
+   "id": 639,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "гриб"
+ },
+ {
+   "id": 640,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "клякс"
+ },
+ {
+   "id": 641,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "скоб"
+ },
+ {
+   "id": 642,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рос"
+ },
+ {
+   "id": 643,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "шмар"
+ },
+ {
+   "id": 644,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тромб"
+ },
+ {
+   "id": 645,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "бздюх"
+ },
+ {
+   "id": 646,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "шпаг"
+ },
+ {
+   "id": 647,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "нерв"
+ },
+ {
+   "id": 648,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "нрав"
+ },
+ {
+   "id": 649,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "скал"
+ },
+ {
+   "id": 650,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "молот"
+ },
+ {
+   "id": 651,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рыб"
+ },
+ {
+   "id": 652,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "жаб"
+ },
+ {
+   "id": 653,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "прыт"
+ },
+ {
+   "id": 654,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "пляс"
+ },
+ {
+   "id": 655,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дроб"
+ },
+ {
+   "id": 656,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "рыг"
+ },
+ {
+   "id": 657,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тёрн"
+ },
+ {
+   "id": 658,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "прут"
+ },
+ {
+   "id": 659,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мрак"
+ },
+ {
+   "id": 660,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "хрящ"
+ },
+ {
+   "id": 661,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "зар"
+ },
+ {
+   "id": 662,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "жуч"
+ },
+ {
+   "id": 663,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "хрум"
+ },
+ {
+   "id": 664,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "скок"
+ },
+ {
+   "id": 665,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "смерт"
+ },
+ {
+   "id": 666,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "вяз"
+ },
+ {
+   "id": 667,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "спор"
+ },
+ {
+   "id": 668,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "уд"
+ },
+ {
+   "id": 669,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "язв"
+ },
+ {
+   "id": 670,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "стыд"
+ },
+ {
+   "id": 671,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "мыл"
+ },
+ {
+   "id": 672,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "игл"
+ },
+ {
+   "id": 673,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "сып"
+ },
+ {
+   "id": 674,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "искр"
+ },
+ {
+   "id": 675,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дыб"
+ },
+ {
+   "id": 676,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "жмот"
+ },
+ {
+   "id": 677,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "мраз"
+ },
+ {
+   "id": 678,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "дрыст"
+ },
+ {
+   "id": 679,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "тёк"
+ },
+ {
+   "id": 680,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крах"
+ },
+ {
+   "id": 681,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "крох"
+ },
+ {
+   "id": 682,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "плюв"
+ },
+ {
+   "id": 683,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "морщ"
+ },
+ {
+   "id": 684,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "куп"
+ },
+ {
+   "id": 685,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": false,
+   "text": "берс"
+ },
+ {
+   "id": 686,
+   "type": "suffix",
+   "obscene": true,
+   "abstract": false,
+   "text": "кал"
+ },
+ {
+   "id": 687,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "торн"
+ },
+ {
+   "id": 688,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "сотт"
+ },
+ {
+   "id": 689,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "грах"
+ },
+ {
+   "id": 690,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "ши"
+ },
+ {
+   "id": 691,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "нобо"
+ },
+ {
+   "id": 692,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "озгу"
+ },
+ {
+   "id": 693,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "зайга"
+ },
+ {
+   "id": 694,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "шу"
+ },
+ {
+   "id": 695,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "неф"
+ },
+ {
+   "id": 696,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "трест"
+ },
+ {
+   "id": 697,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "краш"
+ },
+ {
+   "id": 698,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "аин"
+ },
+ {
+   "id": 699,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "зибо"
+ },
+ {
+   "id": 700,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "прумб"
+ },
+ {
+   "id": 701,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "энти"
+ },
+ {
+   "id": 702,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "арамм"
+ },
+ {
+   "id": 703,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "цу"
+ },
+ {
+   "id": 704,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "ток"
+ },
+ {
+   "id": 705,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "ниф"
+ },
+ {
+   "id": 706,
+   "type": "suffix",
+   "obscene": false,
+   "abstract": true,
+   "text": "кофа"
+ }
+]

@@ -1,6 +1,6 @@
 import generateControlListItem from './generateControlListItem';
 
-const generateMarkup = state => {
+const generateBasicMarkup = state => {
   // root
   const rootEl = document.createElement('div');
   rootEl.classList = 'imedar';
@@ -27,7 +27,7 @@ const generateMarkup = state => {
   state.markup.normalNameTypeInputEl = normalNameTypeInputEl;
 
   const normalNameTypeLabelEl = document.createElement('label');
-  normalNameTypeLabelEl.for = 'imedarNameType_normal';
+  normalNameTypeLabelEl.setAttribute('for', 'imedarNameType_normal');
   normalNameTypeLabelEl.textContent = 'normal';
 
   const controlListItem1El = generateControlListItem();
@@ -44,7 +44,7 @@ const generateMarkup = state => {
   state.markup.obsceneNameTypeInputEl = obsceneNameTypeInputEl;
 
   const obsceneNameTypeLabelEl = document.createElement('label');
-  obsceneNameTypeLabelEl.for = 'imedarNameType_obscene';
+  obsceneNameTypeLabelEl.setAttribute('for', 'imedarNameType_obscene');
   obsceneNameTypeLabelEl.textContent = 'obscene';
 
   const controlListItem2El = generateControlListItem();
@@ -61,7 +61,7 @@ const generateMarkup = state => {
   state.markup.abstractNameTypeInputEl = abstractNameTypeInputEl;
 
   const abstractNameTypeLabelEl = document.createElement('label');
-  abstractNameTypeLabelEl.for = 'imedarNameType_abstract';
+  abstractNameTypeLabelEl.setAttribute('for', 'imedarNameType_abstract');
   abstractNameTypeLabelEl.textContent = 'abstract';
 
   const controlListItem3El = generateControlListItem();
@@ -81,6 +81,19 @@ const generateMarkup = state => {
   nameListEl.classList = 'imedar-list';
   rootEl.appendChild(nameListEl);
   state.markup.nameListEl = nameListEl;
+
+  // set default radio value
+  switch (state.nameType) {
+    case 'normal':
+      normalNameTypeInputEl.checked = true;
+      break;
+    case 'obscene':
+      obsceneNameTypeInputEl.checked = true;
+      break;
+    case 'abstract':
+      abstractNameTypeInputEl.checked = true;
+      break;
+  }
 };
 
-export default generateMarkup;
+export default generateBasicMarkup;

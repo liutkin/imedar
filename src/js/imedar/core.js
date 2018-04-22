@@ -1,25 +1,19 @@
-import axios from 'axios';
-
-import state from './state';
-import generateMarkup from './generateMarkup';
+import generateBasicMarkup from './generateBasicMarkup';
+import init from './init';
+import roll from './roll';
+import getSrcData from './getSrcData';
+import setListeners from './setListeners';
+import getNameList from './getNameList';
+import render from './render';
 
 const core = {
-  generateMarkup,
-  init(data, option) {
-    state.data = data;
-
-    state.el = option.el;
-    state.srcURL = option.srcURL;
-    state.nameType = option.nameType;
-    state.amount = option.amount;
-
-    this.generateMarkup(state);
-  },
-  getSrcData(src) {
-    return axios.get(src);
-  },
-  setListeners() {},
-  updateView() {}
+  generateBasicMarkup,
+  init,
+  roll,
+  getSrcData,
+  setListeners,
+  getNameList,
+  render
 };
 
 export default core;

@@ -1,15 +1,21 @@
 import generateNormalNames from './generateNormalNames';
+import generateSemiObsceneNames from './generateSemiObsceneNames';
+import generateObsceneNames from './generateObsceneNames';
+import generateAbstractNames from './generateAbstractNames';
 
 const getNameList = state => {
   switch (state.nameType) {
     case 'normal':
       generateNormalNames(state);
       break;
+    case 'semiobscene':
+      generateSemiObsceneNames(state);
+      break;
     case 'obscene':
-      console.log('obscene gen');
+      generateObsceneNames(state);
       break;
     case 'abstract':
-      console.log('abstract gen');
+      generateAbstractNames(state);
       break;
   }
 };

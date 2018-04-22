@@ -1,27 +1,27 @@
 import queryData from './queryData';
 import getRandomElementInArray from './getRandomElementInArray';
 
-const generateNormalNames = state => {
-  const normalPrefixList = queryData({
+const generateObsceneNames = state => {
+  const obscenePrefixList = queryData({
     list: state.data,
     type: 'prefix',
-    isObscene: false,
+    isObscene: true,
     isAbstract: false
   });
 
-  const normalSuffixList = queryData({
+  const obsceneSuffixList = queryData({
     list: state.data,
     type: 'suffix',
-    isObscene: false,
+    isObscene: true,
     isAbstract: false
   });
 
   for (let i = 0; i < state.amount; i += 1) {
-    const randomPrefixItem = getRandomElementInArray(normalPrefixList);
-    const randomSuffixItem = getRandomElementInArray(normalSuffixList);
+    const randomPrefixItem = getRandomElementInArray(obscenePrefixList);
+    const randomSuffixItem = getRandomElementInArray(obsceneSuffixList);
 
     state.nameList.push(`${randomPrefixItem.text}${randomSuffixItem.text}`);
   }
 };
 
-export default generateNormalNames;
+export default generateObsceneNames;

@@ -81,7 +81,6 @@ const generateBasicMarkup = state => {
   // submit button
   const submitButtonEl = document.createElement('button');
   submitButtonEl.classList = 'imedar__submit';
-  submitButtonEl.textContent = 'Generate';
   controlEl.appendChild(submitButtonEl);
   state.markup.submitButtonEl = submitButtonEl;
 

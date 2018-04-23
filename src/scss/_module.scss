@@ -1,7 +1,6 @@
 .page {
   min-width: 320px;
   margin: 0;
-  padding: 2rem 0;
   min-height: 100vh;
   font-family: $font_default;
   line-height: 1.7;
@@ -13,22 +12,22 @@
 }
 
 .hero {
+  margin: 0 0 1rem;
+  padding: 2rem 0 0;
   display: flex;
   justify-content: center;
+  @include respondTo(desktop, min) {
+    margin: 0 0 -1rem;
+  }
   &__body {
     display: flex;
     justify-content: center;
     align-items: center;
     text-decoration: none;
     font-size: 3rem;
+    color: #6f3c40;
     @include respondTo(tablet, min) {
       font-size: 5rem;
-    }
-    @include respondTo(widedesktop, min) {
-      font-size: 6rem;
-    }
-    @include respondTo(hugedesktop, min) {
-      font-size: 7rem;
     }
     &,
     &:hover,
@@ -38,14 +37,20 @@
     &:hover,
     &:focus {
       .hero__name {
-        text-shadow: 0 0 100px #ffea81;
+        @include respondTo(desktop, min) {
+          text-shadow: 0 0 100px #ffea81;
+        }
       }
       .hero__warrior {
         &:first-child {
-          transform: translateX(40px);
+          @include respondTo(desktop, min) {
+            transform: translateX(40px);
+          }
         }
         &:last-child {
-          transform: translateX(-40px) rotateY(180deg);
+          @include respondTo(desktop, min) {
+            transform: translateX(-40px) rotateY(180deg);
+          }
         }
       }
     }
@@ -54,7 +59,7 @@
     display: none;
     width: 20vw;
     max-width: 336px;
-    @include respondTo(tablet, min) {
+    @include respondTo(desktop, min) {
       display: block;
       transition: transform 0.5s ease;
     }

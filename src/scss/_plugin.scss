@@ -1,14 +1,57 @@
-.imedar-control {
-  padding: 0 1rem;
-  @include respondTo(tablet, min) {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.imedar {
+  &__submit {
+    width: 70px;
+    height: 70px;
+    position: relative;
+    margin: 0 0 0 2rem;
+    border: none;
+    border-radius: 50%;
+    box-shadow: inset 0 -23px 45px -24px rgba(157, 255, 29, 0.62),
+      0 0 5px 1px rgba(0, 0, 0, 0.3);
+    background: linear-gradient(45deg, #949615 0%, #72af00 100%);
+    &[disabled] {
+      background: linear-gradient(45deg, #949494 0%, #c7c7c7 100%);
+      box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.3);
+      &:after {
+        @include respondTo(desktop, min) {
+          animation: rotate 0.8s linear infinite;
+        }
+      }
+    }
+    &:not([disabled]) {
+      &:hover,
+      &:focus {
+        @include respondTo(tablet, min) {
+          background: linear-gradient(45deg, #a4a716 0%, #78b505 100%);
+        }
+      }
+    }
+    &:after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      opacity: 0.95;
+      background-image: url('../img/dice.svg');
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
   }
-  @include respondTo(widedesktop, min) {
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
+}
+
+.imedar-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background: linear-gradient(
+    45deg,
+    rgba(97, 41, 35, 0.5) 0%,
+    rgba(0, 0, 0, 0.1) 100%
+  );
+  @include respondTo(tablet, min) {
   }
 }
 
@@ -21,7 +64,7 @@
   background-color: rgba(36, 20, 21, 0.8);
   box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.5),
     0 0 70px rgba(251, 246, 241, 0.4);
-  @include respondTo(tablet, min) {
+  @include respondTo(desktop, min) {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-gap: 1rem;
@@ -33,14 +76,53 @@
 }
 
 .imedar-control-list {
+  font-size: 1.2rem;
+  font-family: $font_sansSerif;
   @include respondTo(tablet, min) {
     display: flex;
     align-items: center;
+  }
+  &__item {
+    input {
+      display: none;
+      &:checked + label {
+        color: #c0ff00;
+        &:before {
+          content: '✓';
+          position: absolute;
+          top: 50%;
+          left: 0.8rem;
+          transform: translateY(-50%);
+          animation: checkFadeInDown 0.2s ease;
+        }
+      }
+    }
+    label {
+      display: inline-block;
+      padding: 0.4rem 1rem 0.4rem 2rem;
+      position: relative;
+      user-select: none;
+      border-radius: 3px;
+      @include respondTo(desktop, min) {
+        transition: color 0.2s ease;
+      }
+      &:hover,
+      &:focus {
+        @include respondTo(desktop, min) {
+          color: #c0ff00;
+        }
+      }
+    }
   }
 }
 
 .imedar-list {
   &__item {
+    &:not(.imedar-list__item_inactive) {
+      @include respondTo(desktop, min) {
+        animation: bounceInDown 1s ease;
+      }
+    }
     &.imedar-list__item_inactive {
       visibility: hidden;
     }

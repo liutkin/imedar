@@ -30,6 +30,12 @@ p {
   padding: 0.6rem 0;
 }
 
+button {
+  &:not([disabled]) {
+    cursor: pointer;
+  }
+}
+
 label {
   cursor: pointer;
 }

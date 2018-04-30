@@ -1,14 +1,9 @@
 {
   "name": "imedar",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "description": "Fantasy name generator (russian)",
   "repository": "lyutkin/imedar",
-  "keywords": [
-    "name",
-    "generator",
-    "fantasy",
-    "fun"
-  ],
+  "keywords": ["fun", "fantasy", "names", "generator"],
   "dependencies": {
     "axios": "^0.18.0",
     "babel-core": "^6.26.0",

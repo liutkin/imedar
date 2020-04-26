@@ -1,1 +1,1 @@
-Fantasy name generator (russian) https://lyutkin.github.io/imedar/
+Fantasy name generator (russian) https://liutkin.github.io/imedar/
